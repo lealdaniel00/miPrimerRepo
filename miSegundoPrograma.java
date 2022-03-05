@@ -5,3 +5,5 @@ public class miSegundoPrograma{
 		boing737.aterrizar();
 	}
 }
+
+Hola, esto funciona
